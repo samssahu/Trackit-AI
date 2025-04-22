@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+pytesseract
+Pillow
+groq
+pydantic
+google-generativeai
